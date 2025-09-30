@@ -15,10 +15,11 @@ At first, I started trying right after class finished so that I could develop th
     console.log("FizzBuzz");}
     {console.log(i);
   }
-}```
+}
+```
 
 I tested the code in the sandbox (without expecting to be correct) and I figured out that the numbers were repeating:
-![Repetitive Code in Sandbox](repetitivecode.png)
+![Repetitive Code in Sandbox](img/repetitivecode.png)
 
 ### Second and Last Code
 
@@ -37,8 +38,9 @@ I came up with the following code then:
     } else {
     console.log(i);
     }
-  }```
+  }
+```
   
 This one worked indeed and gave me the results that were asked:
 
-![Last and Correct Code in Sandbox](lastcode.png)
+![Last and Correct Code in Sandbox](img/lastcode.png)
