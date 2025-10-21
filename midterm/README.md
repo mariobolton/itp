@@ -5,6 +5,8 @@
 
 ## Phase 2
 
+For this phase I pretty much followed the [Triangle p5.js Reference](https://p5js.org/reference/p5/triangle/) and the [Rectangle p5.js Reference](https://p5js.org/reference/p5/rect/)
+
 ```
 function setup () {
   createCanvas (80, 60);
