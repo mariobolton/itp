@@ -1,7 +1,7 @@
 #Midterm
 
 ##Phase 1
-[Star Drawing](img/phase1grid.jpeg)
+![Star Drawing w/grid](img/phase1grid.jpeg)
 
 ##Phase 2
 
@@ -25,7 +25,7 @@ function setup () {
   }
 ```
 
-[Phase 2 p5.js Preview](img/phase2p5js.png)
+![Phase 2 p5.js Preview](img/phase2p5js.png)
 
 ##Phase 3
 For the Phase 3, I pretty much followed the instructions on the Midterm instructions, so this phase was pretty straight forwards and didn't use any outside information.
@@ -91,7 +91,7 @@ function draw() {
 }
 ```
 
-[Phase 3 p5.js Preview](img/phase3p5js.png)
+![Phase 3 p5.js Preview](img/phase3p5js.png)
 
 
 ##Phase 4
@@ -205,9 +205,9 @@ function draw() {
  }
 ```
 
-[5x5](img/phase45x5.png)
-[10x10](img/phase410x10.png)
-[20x20](img/phase420x20.png)
+![5x5](img/phase45x5.png)
+![10x10](img/phase410x10.png)
+![20x20](img/phase420x20.png)
 
 After this, I thought it would be better if I simply had two keys so that it adds more tiles and anohter one that makes it have less tiles. Nevertheless, I wanted it to have a certain limit, so I assigned m for more tiles and l for less tiles just tweaking the definition of s. When we want more tiles, it would divide s by 2 `if (key === 'm') { s = (s / 2);` and when we wanted less tiles it would multiply it by 2 `else if (key === 'l') {s = (s * 2);`. Now for the limits, I just added `if` statements so that s doesn't pass the limits I wanted it to be within. 
 
