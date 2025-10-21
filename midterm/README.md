@@ -246,6 +246,6 @@ function draw() {
   if (key === 'm') { s = (s / 2);}
     else if (key === 'l') {s = (s * 2);}
   if (s > 1) s = 1;
-  if (s < 0.2) s = 0.2;
+  if (s < 0.1) s = 0.1;
  }
  ```
