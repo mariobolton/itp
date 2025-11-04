@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-## I want to create my own website were it has audioreactive visuals made with p5.js/P5LIVE
+## I want to create my own website were it has audioreactive visuals made with p5.js
 ### Sources:
 1. [Audio Reactive Sample Projects](https://editor.p5js.org/austinzhangmusic/collections/HBVLL4IQ0)
 2. [Project Very Similar to my Idea](https://editor.p5js.org/cdaein/sketches/HkhR8VH2Z)
